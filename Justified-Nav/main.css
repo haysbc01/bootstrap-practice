@@ -1,0 +1,35 @@
+
+h3 {
+  color: #777;
+}
+
+.nav-size {
+  margin: 20px 5% 0 5%;
+}
+
+.nav {
+  background: #eee;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+
+}
+
+@@media(min-width: 768px) {
+  a {
+    border-right: 1px solid #d5d5d5;
+  }
+
+}
+
+a {
+  color: #777;
+  padding: 15px 0;
+  background-repeat: repeat-x;
+  border-bottom: 1px solid #d5d5d5;
+
+}
+
+.jumbotron {
+  background-color: transparent;
+  text-align: center;
+}
